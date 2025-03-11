@@ -34,5 +34,5 @@ Run the following commands:
 ```bash
 git clone https://github.com/KevinKhemra007/Remote-Control.git
 cd Remote-Control
-chmod +x Server_Remote.py
-python3 Server_Remote.py
+chmod +x Remote.py
+python3 Remote.py
